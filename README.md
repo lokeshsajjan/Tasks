@@ -1,5 +1,5 @@
-# Run the Solution file 
-# Compile the Solution file 
-javac Solution.java 
-java Solution
-give input value
+# How to Run 
+## Compile the Solution file 
+* javac Solution.java 
+* java Solution
+* give input value
