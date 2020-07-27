@@ -3,3 +3,5 @@
 * javac Solution.java 
 * java Solution
 * give input value
+
+examples : java Solution []
